@@ -14,3 +14,11 @@
 - Assign a custmom emoji or image for specific tasks
 - Users can create sub-spaces for different tasks.
 - Set custom fonts and designs for specific tasks.
+
+## Milestone_1
+
+**Initialized the project with the README file.**
+
+## Milestone_2
+
+**Finalizing the setup for dev environment and also commiting changes (ignoring node_modules & package-lock.json).**
