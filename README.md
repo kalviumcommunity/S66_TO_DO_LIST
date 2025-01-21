@@ -21,4 +21,4 @@
 
 ## Milestone_2
 
-**Finalizing the setup for dev environment and also commiting changes (ignoring the node_modules & package-lock.json).**
+**Finalizing the setup for dev environment and also commiting changes (ignoring node_modules & package-lock.json).**
